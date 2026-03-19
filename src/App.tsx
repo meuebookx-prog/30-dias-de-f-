@@ -9,7 +9,7 @@
  */
 
 export default function App() {
-  const hotmartLink = "https://go.hotmart.com/O104953919R";
+  const hotmartLink = "https://pay.hotmart.com/O104953919R";
 
   const dores = [
     "Ansiedade e mente agitada no dia a dia",
