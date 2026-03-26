@@ -54,12 +54,12 @@ export default function App() {
             </h1>
 
             <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-slate-600 md:text-xl">
-              Renove sua fé, acalme sua mente e fortaleça seu espírito com um guia prático de oração para cada dia por apenas R$ 9,90.
+              Renove sua fé, acalme sua mente e fortaleça seu espírito com um guia prático de oração para cada dia por apenas R$ 17,00.
             </p>
 
             <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
               <div className="rounded-2xl bg-white px-6 py-3 text-lg font-semibold text-slate-900 shadow">
-                Apenas R$ 9,90 • Acesso imediato
+                Apenas R$ 17,00 • Acesso imediato
               </div>
               <a
                 href={hotmartLink}
@@ -189,7 +189,7 @@ export default function App() {
             Sua jornada de paz, força e transformação pode começar agora
           </h2>
           <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-slate-200">
-            Por apenas R$ 9,90, reserve alguns minutos do seu dia, entregue suas preocupações em oração e permita-se viver 30 dias de renovação espiritual. Quanto antes você começar, antes sentirá os frutos dessa caminhada.
+            Por apenas R$ 17,00, reserve alguns minutos do seu dia, entregue suas preocupações em oração e permita-se viver 30 dias de renovação espiritual. Quanto antes você começar, antes sentirá os frutos dessa caminhada.
           </p>
           <div className="mt-10">
             <a
